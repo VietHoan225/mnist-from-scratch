@@ -72,7 +72,7 @@ jupyter notebook notebooks/mnist_from_scratch.ipynb
 - [x] MNIST data loading
 - [x] Data normalization and flattening
 - [x] Dataset visualization and shape inspection
-- [ ] NumPy forward propagation
+- [x] NumPy forward propagation
 - [ ] Backpropagation
 - [ ] Training loop
 - [ ] Model evaluation and visualization
