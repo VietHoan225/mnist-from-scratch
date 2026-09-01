@@ -75,7 +75,7 @@ jupyter notebook notebooks/mnist_from_scratch.ipynb
 - [x] NumPy forward propagation
 - [x] Backpropagation
 - [x] Training loop
-- [ ] Model evaluation and visualization
+- [x] Model evaluation and visualization
 - [ ] PyTorch implementation
 - [ ] NumPy vs PyTorch comparison
 
