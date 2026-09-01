@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets and generated outputs
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
